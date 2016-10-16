@@ -1,0 +1,19 @@
+Extensions / Required
+    Python 3.4
+    requests -> lataa
+    beautifulsoap4 == bs4 -> lukee sivun rakenteen
+
+parametri tiedosto 
+    -> default path kuville!
+    -(ehkä) mitä tiedostomuotoja tallennetaan  
+    -(ehkä) miten kuvan linkin löytää, jos haluaisi hyödyntää jonkun toisen sivun kanssa?
+    
+parametrit ajoon: 
+    -Osoite
+    -erillinen kasio / muutoin defaulttina päivämäärän mukaan kuva kansioon (default / itsemääritelty)
+   
+^ pitää varmaan kirjoittaa testi, jota ajetaan devatessa, -
+    jotta ei tarvitse säätää parametrian kanssa aina erikseen!
+    
+Ongelmia?
+    -langasta ei näytetä kaikkia vastauksia oletuksena...
